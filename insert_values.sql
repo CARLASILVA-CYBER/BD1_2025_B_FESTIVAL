@@ -17,6 +17,6 @@ INSERT INTO Participacao VALUES (101, 11);
 INSERT INTO Participacao VALUES (101, 12);
 INSERT INTO Participacao VALUES (102, 12);
 
-INSERT INTO Premiacao VALUES (101, 11, 'Melhor Filme', 5000);
-INSERT INTO Premiacao VALUES (101, 12, 'Melhor Realização', 3000);
-INSERT INTO Premiacao VALUES (102, 12, 'Melhor Argumento', 2500);
+INSERT INTO Premio VALUES (101, 11, 'Melhor Filme', 5000);
+INSERT INTO Premio VALUES (101, 12, 'Melhor Realização', 3000);
+INSERT INTO Premio VALUES (102, 12, 'Melhor Argumento', 2500);
