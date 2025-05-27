@@ -56,8 +56,8 @@ CREATE TABLE Participacao (
     FOREIGN KEY (filme_id) REFERENCES Filme(id)
 );
 
--- Tabela Premiacao
-CREATE TABLE Premiacao (
+-- Tabela Premio
+CREATE TABLE Premio (
     festival_codigo INT,
     filme_id INT,
     categoria_premio VARCHAR(100),
